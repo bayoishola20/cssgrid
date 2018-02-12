@@ -7,3 +7,9 @@ This is a CSS Grid Course with @wesbos. It's Free and you should head over here 
 * A browser (Firefox Developer Edition is recommended)
 
 * An IDE (You gotta love VSCode)
+
+## Install and Start Project
+
+`$ npm i`
+
+`$ npm start`
